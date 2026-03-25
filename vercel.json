@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://banco.bradesco/html/classic/index.shtm/$1",
+      "destination": "https://banco.bradesco/html/classic/index.shtm",
       "permanent": true
     }
   ]
